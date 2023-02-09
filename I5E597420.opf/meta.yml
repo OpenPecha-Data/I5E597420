@@ -1,0 +1,16 @@
+id: I5E597420
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:29:33.488218
+last_modified: 2023-02-10 00:29:33.488357
+source_metadata:
+  title: 'Nāgārjuna: Mūlamadhyamakakārikā'
+  language: zh
+bases:
+  894F:
+    base_file: 894F.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
